@@ -1,0 +1,2 @@
+# first_programme
+在github上第一个repository
